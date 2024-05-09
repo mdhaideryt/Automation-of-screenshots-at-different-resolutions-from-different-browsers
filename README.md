@@ -1,0 +1,1 @@
+# Automation-of-screenshots-at-different-resolutions-from-different-browsers
